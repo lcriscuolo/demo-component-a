@@ -1,4 +1,0 @@
-.Starting a business application
-* xref:index.adoc[Home]
-* xref:log-on.adoc[Log On to IntensiFI]
-* xref:start-application.adoc[Start a Business Application]

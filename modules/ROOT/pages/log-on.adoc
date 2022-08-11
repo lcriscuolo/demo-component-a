@@ -1,1 +1,0 @@
-include::partial$https://github.com/lcriscuolo/antora-demo-repo3.git/log-on.adoc[intensifi-role-applicant]
